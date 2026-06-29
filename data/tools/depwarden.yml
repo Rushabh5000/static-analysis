@@ -2,20 +2,24 @@ name: DepWarden
 categories:
   - linter
 tags:
-  - cargo
   - ci
   - configmanagement
   - dockerfile
+  - dotnet
   - go
   - java
   - javascript
   - json
+  - kotlin
   - kubernetes
   - php
   - python
   - ruby
   - rust
+  - scala
   - security
+  - shell
+  - swift
   - terraform
   - typescript
   - yaml
